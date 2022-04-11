@@ -1,0 +1,9 @@
+For Monday 4/18:
+  Bryce: 
+    Histogram for income
+    Bar graph for gender
+  Jonathan:
+    Histogram for age
+    Par plots for preexisting conditions vs disease
+  
+  
