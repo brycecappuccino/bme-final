@@ -4,6 +4,6 @@ For Monday 4/18:
     Bar graph for gender
   Jonathan:
     Histogram for age -- DONE
-    Par plots for preexisting conditions vs disease
+    pair plots for preexisting conditions vs disease
   
   
