@@ -3,7 +3,7 @@ For Monday 4/18:
     Histogram for income
     Bar graph for gender
   Jonathan:
-    Histogram for age
+    Histogram for age -- DONE
     Par plots for preexisting conditions vs disease
   
   
