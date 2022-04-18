@@ -7,3 +7,13 @@ For Monday 4/18:
     pair plots for preexisting conditions vs disease
   
   
+Comparison Graphs by Wed. 4/20:
+Bryce:
+  Income v. BMI
+  Income v. Smoking
+  Exercise v. Income
+  
+Jonathan:
+  Smoking v. Asthma
+  Income v. Region
+  Medical Costs v. Income
